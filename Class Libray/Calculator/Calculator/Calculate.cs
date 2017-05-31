@@ -85,7 +85,7 @@
         }
     }
 
-    public abstract class CalculateAbstract     //Cannt create object 
+    public abstract class CalculateAbstract     //Cann't create object 
     {
         public static double Add(double firstNumber, double secondNumber, double thirdNumber, double fourthNumber)
         {
